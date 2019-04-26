@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  card.cpp
+  deck.cpp
+  Hand.cpp
+  main.cpp
+  Generating code
+  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3.vcxproj -> D:\FiveCardDraw\Release\Project3.exe
